@@ -27,6 +27,7 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
+        {/*  <span>hola desde layout para todas las paginas</span> */}
         {children}
       </body>
     </html>
