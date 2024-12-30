@@ -8,7 +8,6 @@ const Navbar = () => {
     { patch: "/pricing", text: "pricing" },
     { patch: "/contact", text: "contact" },
   ];
-  console.log("desde cliente");
 
   return (
     <nav className=" bg-blue-800 bg-opacity-30 p-2 m-2 rounded">
